@@ -1,0 +1,5 @@
+train 50% / test 25% / validation 25%
+
+données de validation : données permettant d'ajuster les hyperparamètres
+
+données de test : données permettant de valider le modèle final
